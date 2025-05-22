@@ -10,7 +10,7 @@
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true,
-      "value": ""
+      "value": "DARK-SILENCE-MD~vJBwjCYD#COr_IRVmR4Ku9L7kFqDGwfWqu1zYhWQmsVUlsEGN0yY"
     },  
     
     "ALIVE_IMG": {
