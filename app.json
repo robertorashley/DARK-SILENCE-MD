@@ -8,7 +8,7 @@
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true,
-      "value": ""
+      "value": "DARK-SILENCE-MD~vJBwjCYD#COr_IRVmR4Ku9L7kFqDGwfWqu1zYhWQmsVUlsEGN0yY"
     },  
     
     "ALIVE_IMG": {
@@ -158,13 +158,13 @@
     "OWNER_NUMBER": {
       "description": "replace it with your own number.",
       "required": false,
-      "value": "923096287432"
+      "value": "256784391777"
     }, 
 
      "OWNER_NAME": {
       "description": "replace it with your own name.",
       "required": false,
-      "value": "➺ѕเℓεɳƭ_ℓσѵε૨࿐"
+      "value": "Robert"
      }
   },
   "buildpacks": [
